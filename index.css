@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+
+
+}
+
+h1 {
+    color: rgb(51, 108, 126);
+}
+
+
+a {
+    background-color: #f3f3f3;
+    /* Green */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#VAI {
+
+    width: 70%;
+    height: 600px;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 5%;
+}
+
+div {
+
+    margin-left: 35%;
+    margin-right: 35%;
+
+
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 10%;
+}
+
+#margem {
+    margin-right: 300px;
+    margin-left: 0%;
+}
+
+#img {
+    margin-bottom: 5%;
+}
